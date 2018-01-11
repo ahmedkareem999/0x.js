@@ -1,3 +1,1 @@
-import * as redshift from './redshift'
-
-console.log(redshift)
+import redshiftClient from './redshift';
